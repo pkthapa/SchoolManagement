@@ -1,0 +1,3 @@
+Session variable implementation:
+https://www.formget.com/login-form-in-php/
+
